@@ -1,0 +1,6 @@
+{
+  "name": "Dò Trùng Danh Mục Kỹ Thuật",
+  "description": "Công cụ so sánh và đối soát chính xác danh mục giữa 2 file Excel dựa trên cột Mã và Tên danh mục kỹ thuật.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
